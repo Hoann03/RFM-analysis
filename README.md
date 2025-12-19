@@ -1,2 +1,7 @@
 # RFM-analysis
-Sử dụng Python để phân khúc khách hàng
+
+##tieu de nho hon##
+
+**in dam**
+
+***in nghieng***
